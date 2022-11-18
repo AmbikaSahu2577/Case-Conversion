@@ -1,0 +1,10 @@
+class Case_Conversion
+{
+	public static void main(String[] args) 
+	{
+	   String str1 = "java";
+	   String str2 = "JAVA";
+	   System.out.println(str1.toUpperCase());
+	   System.out.println(str2.toLowerCase());	
+	}
+} 
